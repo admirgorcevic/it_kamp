@@ -1,0 +1,10 @@
+.mojDiv {
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.h1 {
+    display: inline;
+}
