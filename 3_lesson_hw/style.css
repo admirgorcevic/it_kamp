@@ -1,7 +1,7 @@
 .card {
     width: 460px;
     height: 500px;
-    border: 1px solid gray;
+    border: 1px solid #abadae;
     border-radius: 10px;   
     display: inline-block;
 }
@@ -21,7 +21,7 @@
     margin: 0;
 }
 
-.card .card_body .card_link {
+.card .card_body .link {
     color #777af3;
     font-size: 20px;
 }
