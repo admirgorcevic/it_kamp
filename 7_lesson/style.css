@@ -1,0 +1,14 @@
+.container {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    background-color: black;
+}
+
+
+.inner {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    background-color: black;
+}
