@@ -1,0 +1,10 @@
+ul.articles1 {
+    list-style-type: square;
+    color: green;
+    list-style-position: outside;
+}
+
+ol.articles2 {
+    list-style-type: lower-roman;
+    color: blue;
+}
