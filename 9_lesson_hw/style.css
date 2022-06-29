@@ -5,7 +5,7 @@ body {
 .container {
     width: 100%;
     height: 610px;
-    border: 1px solid rgb(187, 187, 187);
+    border: 0px solid rgb(187, 187, 187);
     background-color: rgb(255, 255, 255);
     display: inline-block;
     }
@@ -13,7 +13,7 @@ body {
 .div_margin {
     width: 800px;
     height: 600px;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -24,7 +24,7 @@ body {
 .a1, .b1, .c1, .d1 {
         width: 50px;
         height: 150px;
-        border: 1px solid rgb(134, 134, 134);
+        border: 0px solid rgb(134, 134, 134);
         background-color: rgb(255, 255, 255);
         display: inline-block;
         float: left;
@@ -34,8 +34,8 @@ body {
     .a2, .b2, .c2, .d2 {
         width: 746px;
         height: 150px;
-        border: 1px solid rgb(117, 117, 117);
-        background-color: rgb(250, 250, 250);
+        border: 0px solid rgb(117, 117, 117);
+        background-color: rgb(255, 255, 255);
         display: inline-block; 
         float: left;
     }
@@ -51,12 +51,14 @@ body {
         }
 
     .h2 {
-padding-top: 40px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        padding-top: 40px;
 margin: 0px;
 text-align: left;
     }
 
 .p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding-top: 10px;
     size: 10px;
     margin: 0px;
@@ -86,7 +88,8 @@ text-align: left;
    }
 
    .p_broj1 {
-    text-size-adjust: 100px;
+    
+    text-size-adjust: px;
    }
 
    .div_margin {
@@ -97,6 +100,6 @@ text-align: left;
 .div_stick {
     width: 10px;
     height: 100%;
-    background-color: red;
+    background-color: rgb(174, 174, 174);
     position: relative;
 }
